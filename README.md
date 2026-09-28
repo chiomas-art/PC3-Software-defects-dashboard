@@ -18,7 +18,7 @@ To make the analysis intuitive and actionable, I structured the dashboard around
 * **📊 The Present (Model Performance):** 
   With the historical patterns understood, I trained and evaluated machine learning classification models to see how well they identify defect-prone modules in real time. This section breaks down the reliability of the models, tracking how accurately algorithms can distinguish between clean code and high-risk modules.
 
-* **🔮 The Future (Module Risk Assessor):** 
+* **🔮 The Future (Module Risk Assessor):**
   The most exciting part of this project is the interactivity. Instead of just looking at static charts of past data, engineering teams can use the live risk simulator. By inputting custom code metrics into the tool, developers can instantly test a new module and predict its defect risk *before* deployment, shifting engineering from reactive bug-fixing to proactive quality assurance.
 
 ## 🛠️ Built With
@@ -26,3 +26,6 @@ To make the analysis intuitive and actionable, I structured the dashboard around
 * **Scikit-Learn** for machine learning classification.
 * **Streamlit** for bringing the interactive, multi-tab interface to life.
 * **Matplotlib** & **Seaborn** for clear, narrative-driven visualizations.
+
+Crafted with code, creativity and love ❤️ you can check out the live dashboard app in the PC3 Streamlit link🔗 above, thank you 🙏 
+proudly 🦚 Chioma's Art 🎨.
